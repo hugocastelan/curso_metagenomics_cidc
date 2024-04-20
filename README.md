@@ -1,6 +1,7 @@
 # Curso Metagenómica CIDC 
 
 
+
 ## Organizers and Teachers
 * Dr. Sonia Dávila, CIDC
 * Dr. Hugo Castelán-Sánchez, Western University 
@@ -15,5 +16,4 @@
     - [Friday](#Friday)
 3. [Target group](#target-group)
 4. [Learning outcomes](#learning-outcomes)
-5. [Internet connection](#internet-connection)
-7. [Organizers and teachers](#Organizers-and-teachers)
+
