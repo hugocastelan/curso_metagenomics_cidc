@@ -7,7 +7,7 @@
 
 
 
-# Curso Metagenómica CIDC 
+# Curso Metagenómica 2024
 
 
 
