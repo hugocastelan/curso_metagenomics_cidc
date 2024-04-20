@@ -1,3 +1,4 @@
+![Curso_metagenomics_cidc](./) 
 # Curso Metagenómica CIDC 
 
 
