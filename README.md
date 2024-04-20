@@ -4,8 +4,8 @@
 
 Profesores 
 
--Dra. Sonia Dávila-Ramos    CIDC
--Dr. Hugo Castelán-Sánchez  Western University
+Dra. Sonia Dávila-Ramos    CIDC
+Dr. Hugo Castelán-Sánchez  Western University
 
 
 1. [General introduction](#General-introduction)
