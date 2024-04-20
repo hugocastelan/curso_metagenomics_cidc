@@ -3,9 +3,11 @@
 
 
 Profesores 
+## Organizers and Teachers
 
-Dra. Sonia Dávila-Ramos    CIDC
-Dr. Hugo Castelán-Sánchez  Western University
+### Organizers
+* Dr. Sonia Dávila, CIDC
+* Dr. Hugo Castelán-Sánchez, Western University 
 
 
 1. [General introduction](#General-introduction)
