@@ -7,7 +7,7 @@
 * Dr. Hugo Castelán-Sánchez, Western University 
 
 
-1. [Introducción General](#Introducción General)
+1. [Introducción General](#Introducción-General)
 2. [Schedule](#Schedule)
     - [Monday](#Monday)
     - [Tuesday](#Tuesday)
