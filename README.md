@@ -9,7 +9,7 @@ Profesores
 
 
 
-[Descripción](#Descripción)
+- [Descripción](#Descripción)
 - [Recommended immplementation](#Recommended-immplementation)
 - [Example](#Example)
 - [Description of this GitHub repository](#Description-of-this-GitHub-repository)
