@@ -2,7 +2,7 @@
 
 
 
-## Organizers and Teachers
+## Organizadores y Profesores 
 * Dr. Sonia Dávila, CIDC
 * Dr. Hugo Castelán-Sánchez, Western University 
 
