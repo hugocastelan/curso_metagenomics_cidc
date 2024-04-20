@@ -1,4 +1,4 @@
-![Curso_metagenomics_cidc](./cidc_logo.jpg) 
+![Curso_metagenomics_cidc](./CIDC.jpeg) 
 # Curso Metagenómica CIDC 
 
 
