@@ -1,4 +1,8 @@
-![Curso_metagenomics_cidc](./CIDC.jpeg) 
+<div align="right">
+    <img src="./CIDC.jpeg" alt="Curso_metagenomics_cidc" width="100"/>
+    <img src="./western.jpeg" alt="Otro_logo" width="100"/>
+     <img src="./extrem.jpeg" alt="Otro_logo" width="100"/>
+</div>
 # Curso Metagenómica CIDC 
 
 
