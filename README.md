@@ -1,11 +1,9 @@
 # Curso Metagenómica CIDC 
 
 
+# Organizers and Teachers
 
-Profesores 
-## Organizers and Teachers
-
-### Organizers
+#Organizers
 * Dr. Sonia Dávila, CIDC
 * Dr. Hugo Castelán-Sánchez, Western University 
 
