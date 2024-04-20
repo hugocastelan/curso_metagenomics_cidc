@@ -5,7 +5,7 @@
 Profesores 
 
 1. Dra. Sonia Dávila-Ramos    CIDC
-2. Dr. Hugo Castelán-Sánchez  Western Univisertiy
+2. Dr. Hugo Castelán-Sánchez  Western University
 
 
 
