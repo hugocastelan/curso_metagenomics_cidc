@@ -33,3 +33,10 @@ El objetivo es adquirir familiaridad con las herramientas de análisis bioinform
 
 
 - [Monday](#Lunes)
+  Introduccion a Linux 
+- Repaso Histórico
+- GNU/Linux
+- Interfaces
+- Línea de Comandos
+- Comandos de sistema
+- Operaciones con archivos de texto
