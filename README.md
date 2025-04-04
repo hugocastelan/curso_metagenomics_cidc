@@ -7,7 +7,8 @@
 
 
 
-# Curso Virtual de Metagenómica 2024
+# Curso Virtual de Metagenómica 2025
+
 
 
 ## Organizadores y Profesores 
